@@ -1,0 +1,184 @@
+{
+  "books": [
+    {
+      "author": "ابن خلدون",
+      "id": 1,
+      "isbn": "1289499030",
+      "title": "مقدمة ابن خلدون",
+      "isDeleted": false
+    },
+    {
+      "author": "ابو بكر الرازي",
+      "id": 2,
+      "isbn": "893847239479",
+      "title": "الحاوي في الطب",
+      "isDeleted": false
+    },
+    {
+      "author": "الجاحظ",
+      "id": 3,
+      "isbn": "9789953874772",
+      "title": "البيان والتبيين",
+      "isDeleted": false
+    },
+    {
+      "author": "اب عبدو ابن تهاني",
+      "id": 4,
+      "isbn": "40-567949078",
+      "title": "الغناني",
+      "isDeleted": false
+    },
+    {
+      "author": "ابن سيرين",
+      "id": 5,
+      "isbn": "9789953612165",
+      "title": "تفسير الأحلام",
+      "isDeleted": false
+    },
+    {
+      "author": "المبرد",
+      "id": 6,
+      "isbn": "9789953874475",
+      "title": "الكامل في اللغة والأدب",
+      "isDeleted": false
+    },
+    {
+      "author": "ابن قتيبة",
+      "id": 7,
+      "isbn": "9789953884472",
+      "title": "عيون الأخبار",
+      "isDeleted": false
+    },
+    {
+      "author": "مجهول",
+      "id": 8,
+      "isbn": "9789953774744",
+      "title": "الف ليلة وليلة",
+      "isDeleted": false
+    },
+    {
+      "author": "النويري",
+      "id": 9,
+      "isbn": "9789953894472",
+      "title": "نهاية الأرب في فنون الأدب",
+      "isDeleted": false
+    },
+    {
+      "author": "ابن المقفع",
+      "id": 10,
+      "isbn": "9789953674472",
+      "title": "الأدب الكبير والأدب الصغير",
+      "isDeleted": false
+    },
+    {
+      "author": "البخاري",
+      "id": 11,
+      "isbn": "9789953774892",
+      "title": "الأدب المفرد",
+      "isDeleted": false
+    },
+    {
+      "author": "ابن القيم الجوزية",
+      "id": 12,
+      "isbn": "9789953494872",
+      "title": "الطب النبوي",
+      "isDeleted": false
+    },
+    {
+      "author": "حاجي خليفة",
+      "id": 13,
+      "isbn": "9789953774992",
+      "title": "كشف الظنون",
+      "isDeleted": false
+    },
+    {
+      "author": "أبو العلاء المعري",
+      "id": 14,
+      "isbn": "9789953774888",
+      "title": "رسالة الغفران",
+      "isDeleted": false
+    },
+    {
+      "author": "طه حسين",
+      "id": 15,
+      "isbn": "9789953445772",
+      "title": "الأيام",
+      "isDeleted": false
+    },
+    {
+      "author": "ابن هشام",
+      "id": 16,
+      "isbn": "9789953445972",
+      "title": "السيرة النبوية",
+      "isDeleted": false
+    },
+    {
+      "author": "الحريري",
+      "id": 17,
+      "isbn": "9789953444472",
+      "title": "مقامات الحريري",
+      "isDeleted": false
+    },
+    {
+      "author": "الطبري",
+      "id": 18,
+      "isbn": "9789953774555",
+      "title": "تاريخ الطبري",
+      "isDeleted": false
+    },
+    {
+      "author": "أبو علي القالي",
+      "id": 19,
+      "isbn": "9789953774666",
+      "title": "الأمالي",
+      "isDeleted": false
+    },
+    {
+      "author": "ابن العماد الحنبلي",
+      "id": 20,
+      "isbn": "9789953774788",
+      "title": "شذرات الذهب",
+      "isDeleted": false
+    },
+    {
+      "author": "أبو العلاء المعري",
+      "id": 21,
+      "isbn": "9789953774888",
+      "title": "الفصول والغايات",
+      "isDeleted": false
+    },
+    {
+      "author": "الجاحظ",
+      "id": 22,
+      "isbn": "9789953774988",
+      "title": "النكت العصرية",
+      "isDeleted": false
+    },
+    {
+      "author": "الخطيب البغدادي",
+      "id": 23,
+      "isbn": "9789953774688",
+      "title": "تاريخ بغداد",
+      "isDeleted": false
+    },
+    {
+      "author": "الثعالبي",
+      "id": 24,
+      "isbn": "9789953774788",
+      "title": "سحر البلاغة وسر البراعة",
+      "isDeleted": false
+    },
+    {
+      "author": "أبو تمام",
+      "id": 25,
+      "isbn": "9789953774888",
+      "title": "ديوان الحماسة",
+      "isDeleted": false
+    },
+    {
+      "author": "",
+      "id": 26,
+      "isDeleted": false
+    }
+  ]
+}
